@@ -1,3 +1,4 @@
+Little editing to raise conflict!
 git log --stat | cat
 commit b520bd73a2c3cc068d59be636557a46aac45204d
 Author: Iltsukka <113025832+Iltsukka@users.noreply.github.com>
